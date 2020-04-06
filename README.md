@@ -17,9 +17,9 @@ Second, sensors and IoT. This one isn't fully implemented yet but the future goa
  - **CAD:** includes the Solidworks files (and STL files when applicable) for the physical modifications.
  - **Reference_Pictures:** includes assembly pictures, a wiring diagram, and some glamour shots.
  - **smart_ONYX:** includes all the Arduino code to run the lights, sensors, etc. See it's readme for more info.
- 
+
  ## Bill of Materials:
- - [Arduino UNO WiFi Rev 2](https://www.digikey.com/product-detail/en/arduino/ABX00021/1050-1166-ND/9486717) *A standard UNO would work just as well but a diffrent temperature sensor would be needed
+ - [Arduino UNO WiFi Rev 2](https://www.digikey.com/product-detail/en/arduino/ABX00021/1050-1166-ND/9486717)
  - [Proto-Screwshield](https://www.adafruit.com/product/196)
  - [NeoPixel RGBW Strip - 1m](https://www.adafruit.com/product/2837?length=1)
  - [DC/DC Buck Converter - 5V @ 3A](https://www.adafruit.com/product/1385)
