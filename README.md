@@ -17,9 +17,9 @@ Second, sensors and IoT. This one isn't fully implemented yet but the future goa
  - **CAD:** includes the Solidworks files (and STL files when applicable) for the physical modifications.
  - **Reference_Pictures:** includes assembly pictures, a wiring diagram, and some glamour shots.
  - **smart_ONYX:** includes all the Arduino code to run the lights, sensors, etc. See it's readme for more info.
- 
+
  ## Bill of Materials:
- - [Arduino UNO WiFi Rev 2](https://www.digikey.com/product-detail/en/arduino/ABX00021/1050-1166-ND/9486717) *A standard UNO would work just as well but a diffrent temperature sensor would be needed
+ - [Arduino UNO WiFi Rev 2](https://www.digikey.com/product-detail/en/arduino/ABX00021/1050-1166-ND/9486717)
  - [Proto-Screwshield](https://www.adafruit.com/product/196)
  - [NeoPixel RGBW Strip - 1m](https://www.adafruit.com/product/2837?length=1)
  - [DC/DC Buck Converter - 5V @ 3A](https://www.adafruit.com/product/1385)
@@ -30,5 +30,6 @@ Second, sensors and IoT. This one isn't fully implemented yet but the future goa
  - [UFW1V472MHD - 4700uF @ 35v Electrolytic Capacitor](https://www.digikey.com/product-detail/en/nichicon/UFW1V472MHD/493-3182-ND/1965204)
  - [RSF200JB-73-470R - 470 OHM Resistor](https://www.digikey.com/products/en?keywords=RSF200JB-73-470R)
  - [Automotive Electrical Wire Conector - Big Pack](https://www.amazon.com/dp/B07WY52N7L)
- - [Double Sided Tape - 32ft](https://www.amazon.com/dp/B00PKI7IBG) - [AL-08-18-0-C - 8" Cable Ties](https://www.digikey.com/product-detail/en/advanced-cable-ties-inc/AL-08-18-0-C/2162-AL-08-18-0-C-ND/10378818)
+ - [Double Sided Tape - 32ft](https://www.amazon.com/dp/B00PKI7IBG)
+ - [AL-08-18-0-C - 8" Cable Ties](https://www.digikey.com/product-detail/en/advanced-cable-ties-inc/AL-08-18-0-C/2162-AL-08-18-0-C-ND/10378818)
  - Basic electronic supplies: wires, solder, etc.
